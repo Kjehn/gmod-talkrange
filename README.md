@@ -1,4 +1,4 @@
-HOW TO INSTAL
+HOW TO INSTALL
 
 ENGLISH
 1. Download the Folder
